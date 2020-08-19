@@ -41,6 +41,11 @@ namespace ETicaret.Business.Concrete
             return _productDal.GetPopularProducts().ToList();
         }
 
+        public Product GetProductDetailst(int id)
+        {
+            return _productDal.GetProductDetails(id);
+        }
+
         public void Update(Product entity)
         {
             _productDal.Update(entity);

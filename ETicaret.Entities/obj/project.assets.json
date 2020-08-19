@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
       "projectName": "ETicaret.Entities",
-      "projectPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
+      "projectPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
       "packagesPath": "C:\\Users\\omer6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\obj\\",
+      "outputPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omer6\\AppData\\Roaming\\NuGet\\NuGet.Config",

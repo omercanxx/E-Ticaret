@@ -11906,11 +11906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.DataAccess\\ETicaret.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.DataAccess\\ETicaret.DataAccess.csproj",
       "projectName": "ETicaret.DataAccess",
-      "projectPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.DataAccess\\ETicaret.DataAccess.csproj",
+      "projectPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.DataAccess\\ETicaret.DataAccess.csproj",
       "packagesPath": "C:\\Users\\omer6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omer6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11926,8 +11926,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj": {
-              "projectPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj"
+            "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj": {
+              "projectPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj"
             }
           }
         }

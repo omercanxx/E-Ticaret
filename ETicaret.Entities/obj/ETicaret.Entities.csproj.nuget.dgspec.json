@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj": {}
+    "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj": {
+    "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
         "projectName": "ETicaret.Entities",
-        "projectPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
+        "projectPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
         "packagesPath": "C:\\Users\\omer6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\obj\\",
+        "outputPath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omer6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,10 +45,6 @@
             "Microsoft.AspNetCore.Razor.Design": {
               "target": "Package",
               "version": "[2.1.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.6, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

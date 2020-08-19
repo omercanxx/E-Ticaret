@@ -8,5 +8,6 @@ namespace ETicaret.DataAccess.Abstract
     public interface IProductDal:IRepository<Product>
     {
         List<Product> GetPopularProducts();
+        Product GetProductDetails(int id);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wn4yOPb7AsGxJcoOBupzyUV9Qv6kNlzNUuws1emRIJO6YhRvWklatt+l0pcfxKuIsjjTdQMKwfo6TtOrSWGFCw==",
+  "dgSpecHash": "u5MFL2iqmE6J3V02NjfmOer7HFs7YJ5NyQMqNbY5K3U6g2ESRWP6dpTTA0LfZV9tQVQzUGQTSzzj4wYT+NrozA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omer6\\source\\repos\\ETicaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
+  "projectFilePath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.Entities\\ETicaret.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omer6\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
