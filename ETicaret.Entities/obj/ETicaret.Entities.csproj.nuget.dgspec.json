@@ -46,11 +46,19 @@
               "target": "Package",
               "version": "[2.1.2, )"
             },
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "cloudscribe.Web.Pagination": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [

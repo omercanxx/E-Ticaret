@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wM09hiN5xIWhgmjgT+ElbQ+TvV94T/+/fk0XkGXiFCa1hrQY32UkWUEpjgTbflOnlh9yRZSRvColrIluoRvPlA==",
+  "dgSpecHash": "YD6c+7LRVKHH+zUGwtRkqb8xbkmPYYf+g7T48MYVRTEUeaPsF/ajA/cJIFaVvib2owB6ZMDA34+bXXAqSkKg3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\omer6\\OneDrive\\Belgeler\\GitHub\\E-Ticaret\\ETicaret.WebUI\\ETicaret.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\omer6\\.nuget\\packages\\cloudscribe.web.pagination\\2.0.0\\cloudscribe.web.pagination.2.0.0.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
@@ -241,7 +242,7 @@
     "C:\\Users\\omer6\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\system.linq.parallel\\4.3.0\\system.linq.parallel.4.3.0.nupkg.sha512",
-    "C:\\Users\\omer6\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
+    "C:\\Users\\omer6\\.nuget\\packages\\system.linq.queryable\\4.3.0\\system.linq.queryable.4.3.0.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\omer6\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",

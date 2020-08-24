@@ -46,6 +46,11 @@ namespace ETicaret.Business.Concrete
             return _productDal.GetProductDetails(id);
         }
 
+        public List<Product> GetProductsByCategory(string category)
+        {
+            return _productDal.GetProductsByCagetory(category);
+        }
+
         public void Update(Product entity)
         {
             _productDal.Update(entity);

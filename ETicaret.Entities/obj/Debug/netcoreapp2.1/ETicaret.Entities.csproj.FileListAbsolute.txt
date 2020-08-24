@@ -16,9 +16,9 @@ C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\bin\Debug\ne
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\bin\Debug\netcoreapp2.1\ETicaret.Entities.dll
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\bin\Debug\netcoreapp2.1\ETicaret.Entities.pdb
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.csprojAssemblyReference.cache
-C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.csproj.CoreCompileInputs.cache
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.AssemblyInfoInputs.cache
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.AssemblyInfo.cs
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.dll
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.pdb
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.genruntimeconfig.cache
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.Entities\obj\Debug\netcoreapp2.1\ETicaret.Entities.csproj.CoreCompileInputs.cache

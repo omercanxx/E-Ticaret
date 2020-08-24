@@ -53,7 +53,6 @@ C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\bin\Debug\netco
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\bin\Debug\netcoreapp2.1\ETicaret.DataAccess.pdb
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\bin\Debug\netcoreapp2.1\ETicaret.Entities.pdb
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.csprojAssemblyReference.cache
-C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.csproj.CoreCompileInputs.cache
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.RazorAssemblyInfo.cache
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.RazorAssemblyInfo.cs
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.AssemblyInfoInputs.cache
@@ -75,3 +74,8 @@ C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netco
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.genruntimeconfig.cache
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shop\List.cshtml.g.cs
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.TagHelpers.output.cache
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\ETicaret.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs

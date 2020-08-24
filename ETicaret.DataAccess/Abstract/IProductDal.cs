@@ -9,5 +9,6 @@ namespace ETicaret.DataAccess.Abstract
     {
         List<Product> GetPopularProducts();
         Product GetProductDetails(int id);
+        List<Product> GetProductsByCagetory(string category);
     }
 }

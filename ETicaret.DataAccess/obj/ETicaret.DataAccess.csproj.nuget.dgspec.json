@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "cloudscribe.Web.Pagination": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -122,6 +126,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "cloudscribe.Web.Pagination": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [

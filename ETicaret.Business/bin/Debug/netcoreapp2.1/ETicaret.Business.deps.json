@@ -10,17 +10,31 @@
         "dependencies": {
           "ETicaret.DataAccess": "1.0.0",
           "ETicaret.Entities": "1.0.0",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2"
+          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "cloudscribe.Web.Pagination": "2.0.0"
         },
         "runtime": {
           "ETicaret.Business.dll": {}
         }
       },
+      "cloudscribe.Web.Pagination/2.0.0": {
+        "dependencies": {
+          "System.Linq.Queryable": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/cloudscribe.Web.Pagination.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
+      "System.Linq.Queryable/4.3.0": {},
       "ETicaret.DataAccess/1.0.0": {
         "dependencies": {
           "ETicaret.Entities": "1.0.0",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2"
+          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "cloudscribe.Web.Pagination": "2.0.0"
         },
         "runtime": {
           "ETicaret.DataAccess.dll": {}
@@ -28,7 +42,8 @@
       },
       "ETicaret.Entities/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2"
+          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "cloudscribe.Web.Pagination": "2.0.0"
         },
         "runtime": {
           "ETicaret.Entities.dll": {}
@@ -42,12 +57,26 @@
       "serviceable": false,
       "sha512": ""
     },
+    "cloudscribe.Web.Pagination/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cMF2qyL+COcTS8zqdLKW0a79KmrDibu2NAMMTQXQ1SlIO1HZHsJJK94E6cW4DGVCLtDHNrU+D1xeFlRSvOnovw==",
+      "path": "cloudscribe.web.pagination/2.0.0",
+      "hashPath": "cloudscribe.web.pagination.2.0.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hashPath": "microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
+    },
+    "System.Linq.Queryable/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-In1Bmmvl/j52yPu3xgakQSI0YIckPUr870w4K5+Lak3JCCa8hl+my65lABOuKfYs4ugmZy25ScFerC4nz8+b6g==",
+      "path": "system.linq.queryable/4.3.0",
+      "hashPath": "system.linq.queryable.4.3.0.nupkg.sha512"
     },
     "ETicaret.DataAccess/1.0.0": {
       "type": "project",
