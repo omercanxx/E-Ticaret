@@ -10,5 +10,7 @@ namespace ETicaret.DataAccess.Abstract
         List<Product> GetPopularProducts();
         Product GetProductDetails(int id);
         List<Product> GetProductsByCagetory(string category);
+        Product GetByIdWithCategories(int id);
+        void Update(Product entity, int[] categoryIds);
     }
 }

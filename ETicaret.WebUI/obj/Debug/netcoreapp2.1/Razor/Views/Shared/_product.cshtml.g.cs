@@ -57,7 +57,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("<div class=\"col-md-4\">\n    <div class=\"card mb-3\">\n        ");
             EndContext();
             BeginContext(74, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a8523aeec144427da0279b51090e20af", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c2da305fe6db4942ac1a7cb8915c2d71", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -109,7 +109,7 @@ AddHtmlAttributeValue("", 112, Model.Name, 112, 11, false);
             WriteLiteral("\n            </small>\n        </div>\n        <div class=\"card-footer text-center\">\n            ");
             EndContext();
             BeginContext(452, 121, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1069389ca11340ba97edff0947307ea7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "435fc9ee02734131985921973a91e79d", async() => {
                 BeginContext(562, 7, true);
                 WriteLiteral("Details");
                 EndContext();

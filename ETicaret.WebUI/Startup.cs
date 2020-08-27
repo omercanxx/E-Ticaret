@@ -6,7 +6,6 @@ using ETicaret.Business.Abstract;
 using ETicaret.Business.Concrete;
 using ETicaret.DataAccess.Abstract;
 using ETicaret.DataAccess.Concrete.EfCore;
-using ETicaret.DataAccess.Concrete.EfCore.Memory;
 using ETicaret.WebUI.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -43,6 +42,18 @@ namespace ETicaret.WebUI
                   name: "products",
                   template: "products/{category?}",
                   defaults: new { controller = "Shop", action = "List" }
+                );
+
+                routes.MapRoute(
+                  name: "adminProducts",
+                  template: "admin/products",
+                  defaults: new { controller = "Admin", action = "ProductList" }
+                );
+
+                routes.MapRoute(
+                  name: "adminProduct",
+                  template: "admin/products/{id?}",
+                  defaults: new { controller = "Admin", action = "EditProduct" }
                 );
 
                 routes.MapRoute(

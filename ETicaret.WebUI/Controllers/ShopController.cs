@@ -22,7 +22,7 @@ namespace ETicaret.WebUI.Controllers
             {
                 return NotFound();
             }
-            Product product = _productService.GetProductDetailst((int) id);
+            Product product = _productService.GetProductDetails((int) id);
             if(product== null)
             {
                 return NotFound();

@@ -17,23 +17,17 @@
                     Shop
                 </a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" asp-controller="Admin" asp-action="CreateProduct">
-                    Create Product
-                </a>
-            </li>
+
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <i class="fa fa-envelope-o">
-                        <span class="badge badge-primary">11</span>
-                    </i>
-                    Dropdown
+                    Admin
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" asp-controller="Admin" asp-action="ProductList">Product List</a>
+                    <a class="dropdown-item" asp-controller="Admin" asp-action="CreateProduct">Create Product</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                    <a class="dropdown-item" asp-controller="Admin" asp-action="CategoryList">Category List</a>
+                    <a class="dropdown-item" asp-controller="Admin" asp-action="CreateCategory">Create Category</a>
                 </div>
             </li>
         </ul>

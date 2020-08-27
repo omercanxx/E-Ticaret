@@ -11,11 +11,14 @@ namespace ETicaret.Business.Concrete
 {
     public class ProductManager : IProductService
     {
-        private IProductDal _productDal;
+        private readonly IProductDal _productDal;
         public ProductManager(IProductDal productDal)
         {
             _productDal = productDal;
         }
+
+
+
         public void Create(Product entity)
         {
             _productDal.Create(entity);
@@ -36,12 +39,16 @@ namespace ETicaret.Business.Concrete
             return _productDal.GetById(id);
         }
 
+        public Product GetByIdWithCategories(int id)
+        {
+            return _productDal.GetByIdWithCategories(id);
+        }
         public List<Product> GetPopularProducts()
         {
             return _productDal.GetPopularProducts().ToList();
         }
 
-        public Product GetProductDetailst(int id)
+        public Product GetProductDetails(int id)
         {
             return _productDal.GetProductDetails(id);
         }
@@ -54,6 +61,11 @@ namespace ETicaret.Business.Concrete
         public void Update(Product entity)
         {
             _productDal.Update(entity);
+        }
+
+        public void Update(Product entity, int[] categoryIds)
+        {
+            _productDal.Update(entity, categoryIds);
         }
     }
 }

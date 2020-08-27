@@ -8,7 +8,6 @@ namespace ETicaret.WebUI.Models
 {
     public class CategoryListModel
     {
-        public string SelectedCategory { get; set; }
         public List<Category> Categories { get; set; }
     }
 }
