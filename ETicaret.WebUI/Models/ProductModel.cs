@@ -11,14 +11,12 @@ namespace ETicaret.WebUI.Models
     {
         public int Id { get; set; }
         [Required]
-        [StringLength(60, ErrorMessage = "Ürün ismi maksimum 60 karakter olmalıdır")]
         public string Name { get; set; }
         [Required]
         public string ImageUrl { get; set; }
         [Required]
-        [StringLength(100, ErrorMessage = "Ürün ismi maksimum 100 karakter olmalıdır")]
         public string Description { get; set; }
-        [Required(ErrorMessage = "The Price field is required.")]
+        [Required]
         public decimal? Price { get; set; }
         public List<Category> SelectedCategories { get; set; }
     }

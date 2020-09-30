@@ -123,7 +123,7 @@ WriteAttributeValue("", 766, item.Id, 766, 8, false);
             WriteLiteral(">Edit</a>\r\n\r\n                        ");
             EndContext();
             BeginContext(812, 293, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d1897ba58a04e36a1f6a8f6ce446760", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce9bf28d7fc349e6a01a5634bdfc5c00", async() => {
                 BeginContext(887, 68, true);
                 WriteLiteral("\r\n                            <input type=\"hidden\" name=\"categoryId\"");
                 EndContext();

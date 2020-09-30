@@ -73,7 +73,7 @@ using ETicaret.WebUI.Models;
                 ");
             EndContext();
             BeginContext(560, 157, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf1bf6f9d1945e3a6a6c245c67e6c53", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4bcca0eede59453b9fe3b91efff28662", async() => {
                 BeginContext(621, 92, true);
                 WriteLiteral("\r\n                    <i class=\"fa fa-home\"></i>\r\n                    Home\r\n                ");
                 EndContext();
@@ -98,7 +98,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("\r\n            </li>\r\n            <li class=\"nav-item\">\r\n                ");
             EndContext();
             BeginContext(789, 108, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e8b4764d4824c7890e9315737d05907", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "87f56d3f8b914df9bcda218596884340", async() => {
                 BeginContext(849, 44, true);
                 WriteLiteral("\r\n                    Shop\r\n                ");
                 EndContext();
@@ -131,7 +131,7 @@ using ETicaret.WebUI.Models;
                     ");
             EndContext();
             BeginContext(1274, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0066590ac08c4fa586d41947b032da30", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "556adfb0d56e48adb3461735b0232897", async() => {
                 BeginContext(1347, 12, true);
                 WriteLiteral("Product List");
                 EndContext();
@@ -156,7 +156,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1385, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e99ab865c8f4c00a2ba304b2fb68473", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0f053ae9d8b242629b11b684b2d158f7", async() => {
                 BeginContext(1460, 14, true);
                 WriteLiteral("Create Product");
                 EndContext();
@@ -181,7 +181,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("\r\n                    <div class=\"dropdown-divider\"></div>\r\n                    ");
             EndContext();
             BeginContext(1558, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e73b5c9cc164b9e9e2267488c41ccad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "37c936cf5dee482fa182805ba9b2f6c5", async() => {
                 BeginContext(1632, 13, true);
                 WriteLiteral("Category List");
                 EndContext();
@@ -206,7 +206,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1671, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d01789c6ef2b4f16af752bf7f45ad582", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb706812ae404f27bfe1ba1d29da0b36", async() => {
                 BeginContext(1747, 15, true);
                 WriteLiteral("Create Category");
                 EndContext();
