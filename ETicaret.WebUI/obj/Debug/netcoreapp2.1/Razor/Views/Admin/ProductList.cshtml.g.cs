@@ -106,7 +106,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("</td>\r\n                    <td>\r\n                        ");
             EndContext();
             BeginContext(730, 45, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "36e5afe0448449f6b2b655f4ca27b374", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "395aba8ae4d245ce99efddb011295659", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -163,7 +163,7 @@ WriteAttributeValue("", 998, item.Id, 998, 8, false);
             WriteLiteral(">Edit</a>\r\n                        ");
             EndContext();
             BeginContext(1042, 291, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d580d971ff33444eb71595c2fc525fba", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6b23af47c92471d9b24c5905d1f621e", async() => {
                 BeginContext(1116, 67, true);
                 WriteLiteral("\r\n                            <input type=\"hidden\" name=\"productId\"");
                 EndContext();

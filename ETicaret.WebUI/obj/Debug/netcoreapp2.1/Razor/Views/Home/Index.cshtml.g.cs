@@ -71,7 +71,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral(" \n    </div>\n    <div class=\"col-md-9\">\n        ");
             EndContext();
             BeginContext(220, 26, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "aef13dfbea9d4155b79d9e0058fb3823", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "103004ae217a45e1b95f5913317cf02f", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -99,7 +99,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("                ");
             EndContext();
             BeginContext(361, 42, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "55a67c5a9945405f9e4f2fc7e0c1a116", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "0ea2fbe275d5455594426ce31dfa5b43", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

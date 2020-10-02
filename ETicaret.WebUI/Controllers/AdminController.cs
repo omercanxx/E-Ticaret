@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 using ETicaret.Business.Abstract;
 using ETicaret.Entities;
 using ETicaret.WebUI.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ETicaret.WebUI.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private readonly IProductService _productService;

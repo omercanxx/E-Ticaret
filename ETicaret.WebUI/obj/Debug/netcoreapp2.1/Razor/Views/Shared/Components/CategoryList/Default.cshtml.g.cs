@@ -64,7 +64,7 @@ using ETicaret.WebUI.Models;
             WriteLiteral("        ");
             EndContext();
             BeginContext(117, 269, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06670f47c3e54ef0b0300f19612948d6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b67c78e4c910467b89a6b847ea9a8985", async() => {
                 BeginContext(373, 9, false);
 #line 11 "C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\Views\Shared\Components\CategoryList\Default.cshtml"
        Write(item.Name);

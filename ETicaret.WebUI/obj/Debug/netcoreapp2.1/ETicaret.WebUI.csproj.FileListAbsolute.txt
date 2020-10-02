@@ -84,3 +84,5 @@ C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netco
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
 C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\omer6\OneDrive\Belgeler\GitHub\E-Ticaret\ETicaret.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
